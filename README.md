@@ -1,3 +1,3 @@
-# NLP-RL_girafe_assignments
+# NLP&RL assignments
 
-my homeworks
+This repository contains my homework assignments and practice notebooks for the NLP & RL course **Girafe AI**. 
